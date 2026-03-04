@@ -28,23 +28,8 @@
 **`// about me`**
 
 </div>
-
 <br/>
-
-```yaml
-name      : Al Ghozali Ramadhan
-degree    : Computer Science Student
-focus     : Indie 3D Game Development
-craft     : Modeling · Animating · Scripting
-code      : Python · C++ · C#
-currently : working on something cool
-interests : games · design · tech
-collab    : open to interesting projects
-status    : always building something new
-```
-
-<br/>
-
+Computer Science student and solo indie game developer. Building 3D games entirely on my own, handling everything from modeling and animating. C++ and C# are my languages of choice, with Unity and Blender as my main tools. When I'm not studying, I'm deep in a project, figuring out how to make something that actually feels good to play.
 <div align="center">
 
 </div>
