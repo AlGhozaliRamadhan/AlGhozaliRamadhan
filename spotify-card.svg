@@ -1,0 +1,51 @@
+<svg width="360" height="90" viewBox="0 0 360 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="360" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1DB954"/>
+      <stop offset="100%" stop-color="#1aa34a"/>
+    </linearGradient>
+    <clipPath id="round">
+      <rect width="360" height="90" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="360" height="90" rx="12" fill="url(#bg)"/>
+  <rect width="360" height="90" rx="12" fill="none" stroke="#1DB95430" stroke-width="1" clip-path="url(#round)"/>
+
+  <!-- Album art placeholder -->
+  <rect x="14" y="14" width="62" height="62" rx="6" fill="#1a2535"/>
+  <!-- Vinyl circle -->
+  <circle cx="45" cy="45" r="24" fill="#0d1117"/>
+  <circle cx="45" cy="45" r="16" fill="#141e2e"/>
+  <circle cx="45" cy="45" r="8" fill="#0d1117"/>
+  <circle cx="45" cy="45" r="3" fill="#1DB954"/>
+  <!-- Vinyl rings -->
+  <circle cx="45" cy="45" r="20" fill="none" stroke="#1DB95415" stroke-width="1"/>
+  <circle cx="45" cy="45" r="13" fill="none" stroke="#1DB95415" stroke-width="1"/>
+
+  <!-- Spotify icon -->
+  <circle cx="67" cy="67" r="9" fill="#1DB954"/>
+  <text x="67" y="71" text-anchor="middle" fill="white" font-size="10" font-family="Arial">♫</text>
+
+  <!-- Song title -->
+  <text x="92" y="32" fill="#ffffff" font-size="14" font-weight="700" font-family="'Helvetica Neue', Arial, sans-serif">Messages From the Stars</text>
+
+  <!-- Artist -->
+  <text x="92" y="50" fill="#8b949e" font-size="12" font-family="'Helvetica Neue', Arial, sans-serif">The RAH Band</text>
+
+  <!-- Progress bar track -->
+  <rect x="92" y="63" width="250" height="3" rx="2" fill="#2d3748"/>
+  <!-- Progress bar fill ~40% -->
+  <rect x="92" y="63" width="100" height="3" rx="2" fill="#1DB954"/>
+  <!-- Scrubber dot -->
+  <circle cx="192" cy="64.5" r="5" fill="#ffffff"/>
+
+  <!-- Time labels -->
+  <text x="92" y="82" fill="#8b949e" font-size="10" font-family="'Helvetica Neue', Arial, sans-serif">1:42</text>
+  <text x="342" y="82" text-anchor="end" fill="#8b949e" font-size="10" font-family="'Helvetica Neue', Arial, sans-serif">4:16</text>
+</svg>
