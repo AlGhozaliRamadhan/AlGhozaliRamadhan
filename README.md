@@ -80,9 +80,3 @@ Computer Science student and solo indie game developer. Building 3D games entire
 ![stars](https://readme-typing-svg.demolab.com?font=Space+Mono&size=10&duration=6000&pause=200&color=1C3F6E&center=true&vCenter=true&width=800&height=18&lines=%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6+%E2%80%A2+%E2%80%A2+%E2%9C%A6)
 
 <br/>
-
-
-
-<sub>✦ &nbsp; crafted in the void &nbsp; ✦ &nbsp; <code>@AlGhozaliRamadhan</code> &nbsp; ✦</sub>
-
-</div>
